@@ -3,29 +3,32 @@ export interface Product {
   name: string;
   price: number;
   description: string;
+  url: string;
 }
 
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'ONYX BOOX Nova Air2',
+    price: 185000,
+    description: 'A large phone with one of the best screens',
+    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h78/h66/66012099215390/onyx-boox-nova-air2-belyi-107673318-1.jpg',
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'ONYX BOOX NOTE AIR 2 PLUS',
+    price: 255000,
+    description: 'A great phone with one of the best cameras',
+    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hfe/h95/51932230451230/onyx-boox-note-air-2-plus-multikolor-105524843-1.jpg',
   },
   {
     id: 3,
-    name: 'Phone Standard',
+    name: 'Amazon Kindle 10',
     price: 299,
-    description: ''
-  }
+    description: '',
+    url: 'https://image.winudf.com/v2/image/bWUud2FsbHBhcGEubmF0dXJlX3NjcmVlbl8xXzE1MzIzNzgxNThfMDE3/screen-1.jpg?fakeurl=1&type=.jpg',
+  },
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.

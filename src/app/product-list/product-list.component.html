@@ -1,28 +1,25 @@
 <h2>Products</h2>
 
 <div *ngFor="let product of products">
-
   <h3>
     <a [title]="product.name + ' details'">
       {{ product.name }}
     </a>
   </h3>
 
-  <p *ngIf="product.description">
-    Description: {{ product.description }}
-  </p>
+  <div>
+    <img src="{{ product.url }}" alt=''>
+  </div>
 
-  <button type="button" (click)="share()">
-    Share
-  </button>
+  <img alt="" class="item__slider-pic" src="https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hfe/hb8/33677774684190/amazon-kindle-10-belyj-101508034-1-Container.jpg">
 
-  <app-product-alerts
-    [product]="product" 
-    (notify)="onNotify()">
+  <p *ngIf="product.description">Description: {{ product.description }}</p>
+
+  <button type="button" (click)="share()">Share</button>
+
+  <app-product-alerts [product]="product" (notify)="onNotify()">
   </app-product-alerts>
-
 </div>
-
 
 <!-- 
 Copyright Google LLC. All Rights Reserved.
