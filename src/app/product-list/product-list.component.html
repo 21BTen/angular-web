@@ -1,4 +1,6 @@
-<h2>Products</h2>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div id = "main">
+<h2><strong>Products</strong></h2>
 
 <div *ngFor="let product of products">
   <h3>
@@ -18,12 +20,23 @@
   </div>
 
   <p *ngIf="product.description">Description: {{ product.description }}</p>
-  <a href = "https://api.whatsapp.com/send/?text={{ product.kaspi_link }}&type=custom_url&app_absent=0">
-    <button type="submit">Share</button>
-  </a>
+  <div>
+  <span class="fa fa-star checked"></span>
+  <span class="fa fa-star checked"></span>
+  <span class="fa fa-star checked"></span>
+  <span class="fa fa-star checked"></span>
+  <span class="fa fa-star"></span>
+  </div>
+
+  <div>
+    <a href = "https://api.whatsapp.com/send/?text={{ product.kaspi_link }}&type=custom_url&app_absent=0">
+      <button type="submit">Share</button>
+    </a>
+  </div>
 
   <app-product-alerts [product]="product" (notify)="onNotify()">
   </app-product-alerts>
+</div>
 </div>
 
 <!-- 
