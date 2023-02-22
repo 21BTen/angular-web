@@ -77,9 +77,10 @@ label {
   border-radius: 2px;
   font-size: 14px;
   cursor: pointer;
-  background-color: #1976d2;
+  background-color: #4e2802;
   color: white;
   border: none;
+  border-radius: 20px;
 }
 
 .button:hover, button:hover {
@@ -96,7 +97,7 @@ label {
 
 .fancy-button {
   background-color: white;
-  color: #1976d2;
+  color: #1951d2;
 }
 
 .fancy-button i.material-icons {
@@ -155,7 +156,22 @@ app-top-bar h1 {
 .gallery{
   margin-left: 20px;
 }
-
+.main_card{
+  text-align: left;
+  margin-top: 120px;
+  margin-left: 500px;
+  padding:70px;
+  background-color: #f1f1f1;
+  border-radius: 40px;
+}
+.shipping{
+  text-align: left;
+  margin-top: 100px;
+  margin-left: 400px;
+  padding:70px;
+  background-color: #f1f1f1;
+  border-radius: 40px;
+}
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
