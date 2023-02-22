@@ -10,14 +10,13 @@
   </h3>
 
   <div>
-    <img src="{{ product.url }}" alt=''>
+    <img src="{{ product.url }}" alt='' width = "200">
   </div>
 
-  <img alt="" class="item__slider-pic" src="https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hfe/hb8/33677774684190/amazon-kindle-10-belyj-101508034-1-Container.jpg">
-
   <p *ngIf="product.description">Description: {{ product.description }}</p>
-
-  <button type="button" (click)="share()">Share</button>
+  <a href = "https://api.whatsapp.com/send/?text={{ product.kaspi_link }}&type=custom_url&app_absent=0">
+    <button type="submit">Share</button>
+  </a>
 
   <app-product-alerts [product]="product" (notify)="onNotify()">
   </app-product-alerts>
