@@ -50,44 +50,44 @@ export const products = [
     kaspi_link: 'https://kaspi.kz/shop/p/onyx-boox-poke-4-lite-belyi-105776884/?c=750000000#!/item'
   },
   {
-    id: 2,
-    name: 'ONYX BOOX NOTE AIR 2 PLUS',
-    price: 255000,
-    description: 'E-book ONYX BOOX NOTE AIR 2 PLUS green ,built-in backlight',
-    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hfe/h95/51932230451230/onyx-boox-note-air-2-plus-multikolor-105524843-1.jpg',
-    kaspi_link: 'https://kaspi.kz/shop/p/onyx-boox-note-air-2-plus-zelenyi-105524843/?c=750000000#!/item'
+    id: 6,
+    name: 'PocketBook 606 PB606-D-CIS',
+    price: 74990,
+    description: 'PocketBook 606 is a new entry–level model with a 6-inch HD screen of the latest generation E Ink Carta and a record low weight, only 145 g. The reader is surprisingly easy to operate, safe for vision, supports 20 book and graphic formats and is equipped with a memory card slot. In short, PocketBook 606 has everything you need for comfortable electronic reading.',
+    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h7e/h4c/33270743334942/pocketbook-606-pb606-d-cis-belyj-100665220-1-Container.jpg',
+    kaspi_link: 'https://kaspi.kz/shop/p/pocketbook-606-pb606-d-cis-belyi-100665220/?c=750000000#!/item'
   },
   {
-    id: 2,
-    name: 'ONYX BOOX NOTE AIR 2 PLUS',
-    price: 255000,
-    description: 'E-book ONYX BOOX NOTE AIR 2 PLUS green ,built-in backlight',
-    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hfe/h95/51932230451230/onyx-boox-note-air-2-plus-multikolor-105524843-1.jpg',
-    kaspi_link: 'https://kaspi.kz/shop/p/onyx-boox-note-air-2-plus-zelenyi-105524843/?c=750000000#!/item'
+    id: 7,
+    name: 'Ritmix RBK-617',
+    price: 37228,
+    description: 'E-book Ritmix RBK-617 Black, built-in backlight',
+    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h65/he9/33323904958494/ritmix-rbk-617-cernyj-100613290-1-Container.jpg',
+    kaspi_link: 'https://kaspi.kz/shop/p/ritmix-rbk-617-chernyi-100613290/?c=750000000#!/item'
   },
   {
-    id: 2,
-    name: 'ONYX BOOX NOTE AIR 2 PLUS',
-    price: 255000,
-    description: 'E-book ONYX BOOX NOTE AIR 2 PLUS green ,built-in backlight',
-    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hfe/h95/51932230451230/onyx-boox-note-air-2-plus-multikolor-105524843-1.jpg',
-    kaspi_link: 'https://kaspi.kz/shop/p/onyx-boox-note-air-2-plus-zelenyi-105524843/?c=750000000#!/item'
+    id: 8,
+    name: 'POCKET BOOK PB741-N-CIS',
+    price: 153990,
+    description: 'The worlds first large-format 7.8-inch E Ink color screen reader. Previously, all E Ink Kaleido color screen readers (E Ink Kaleido Plus) were 6-inch, and this model is 7.8-inch. The larger the diagonal of the screen, the more comfortable it is when studying specific content. Literature with pictures, the Internet in color, business publications with graphs and diagrams, comics – for all this, PocketBook 741 Color fits perfectly. A color reader, as convenient as possible for textbooks, business literature, comics.',
+    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hda/h31/50916665131038/pocketbook-pb741-n-cis-serebristyj-101694825-1-Container.jpg',
+    kaspi_link: 'https://kaspi.kz/shop/p/pocket-book-pb741-n-cis-serebristyi-101694825/?c=750000000#!/item'
   },
   {
-    id: 2,
-    name: 'ONYX BOOX NOTE AIR 2 PLUS',
-    price: 255000,
-    description: 'E-book ONYX BOOX NOTE AIR 2 PLUS green ,built-in backlight',
-    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hfe/h95/51932230451230/onyx-boox-note-air-2-plus-multikolor-105524843-1.jpg',
-    kaspi_link: 'https://kaspi.kz/shop/p/onyx-boox-note-air-2-plus-zelenyi-105524843/?c=750000000#!/item'
+    id: 9,
+    name: 'Amazon Kindle PaperWhite 2018 8Gb',
+    price: 99940,
+    description: 'The Amazon Kindle PaperWhite 2018 e–book is an updated version of the popular Amazon e-book. The thinnest and lightest reader of the Kindle Paperwhite line. The new model received a 6-inch E-Ink Carta screen with a resolution of 1440 x 1080. The display resembles real paper and does not glare even in the bright sun. Thanks to the built-in adjustable light, you can enjoy reading not only during the day, but also at night. The built-in memory is 8 GB. Amazon Kindle PaperWhite 2018 supports audiobooks. Using Bluetooth, you can connect headphones and listen to audiobooks through the headset. One battery charge for daily reading lasts for several weeks.',
+    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h7d/h82/32330407575582/amazon-kindle-paperwhite-2018-8gb-sinij-100153809-1-Container.jpg',
+    kaspi_link: 'https://kaspi.kz/shop/p/amazon-kindle-paperwhite-2018-8gb-sinii-100153809/?c=750000000#!/item'
   },
   {
-    id: 2,
-    name: 'ONYX BOOX NOTE AIR 2 PLUS',
-    price: 255000,
-    description: 'E-book ONYX BOOX NOTE AIR 2 PLUS green ,built-in backlight',
-    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hfe/h95/51932230451230/onyx-boox-note-air-2-plus-multikolor-105524843-1.jpg',
-    kaspi_link: 'https://kaspi.kz/shop/p/onyx-boox-note-air-2-plus-zelenyi-105524843/?c=750000000#!/item'
+    id: 10,
+    name: 'Amazon Kindle 11',
+    price: 73900,
+    description: 'Amazon Kindle E-book 11 Black, built-in backlight',
+    url: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h3d/h9c/65742545420318/amazon-kindle-11-chernyi-107572855-1.jpg',
+    kaspi_link: 'https://kaspi.kz/shop/p/amazon-kindle-11-chernyi-107572855/?c=750000000#!/item'
   },
 ];
 
